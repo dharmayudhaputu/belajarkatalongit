@@ -30,5 +30,8 @@ WebUI.click(findTestObject('Object Repository/Testing Ninja Katalon/a_Add to car
 WebUI.click(findTestObject('Object Repository/Testing Ninja Katalon/a_Cart'))
 
 WebUI.closeBrowser()
+ 
+//belajar 2
+//Belajar lagi baru
 
-//belajar
+
