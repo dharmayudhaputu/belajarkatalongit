@@ -80,3 +80,5 @@ WebUI.click(findTestObject('Object Repository/Testing Ninja Katalon/img'))
 
 WebUI.closeBrowser()
 
+//belajar lagi
+
